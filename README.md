@@ -1,4 +1,4 @@
-📊 **Sales Data Insights**
+ # Sales Data Insights 📊
 
 This project involves analyzing a sales dataset to extract meaningful insights using Python's NumPy and Pandas libraries.
 
